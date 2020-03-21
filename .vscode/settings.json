@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\tensor\\pythonw.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": true
+}
